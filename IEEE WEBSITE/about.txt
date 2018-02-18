@@ -1,0 +1,140 @@
+<div class="container-fluid">
+        <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        <div class="main"><br>
+        
+<h1>WHAT IS IEEE?</h1>
+<p>The IEEE is a non-profit organization, leadership role in 
+the progression of technology is a unity. IEEE expansion, is 
+the Institute of Electrical and Electronics Engineers. Installation, 
+since only the electrical and electronics engineers for being out 
+all engineering and positive science and technology dealing with \
+everyone that I become the IEEE &lsquo;s expansion is now the Institute 
+of Engineers and Everybody Else as amended, and multi-faceted structure 
+became punctuated.</p>
+<p>AIEE in 1963 (founded in 1884 by the American Institute of Electrical Engineers) 
+and the IRE (1912, founded the Institute of Radio Engineers) &lsquo;s been formed 
+with the merger.</p>
+<p>A&rsquo;IEE&rsquo; + IR&rsquo;E&rsquo; = IEEE</p>
+<p>Since the establishment of the IEEE,</p>
+<ul>
+<li>Theory of electro-technology and related disciplines, and progress has been done,</li>
+<li>Took part in accelerating technology innovation,</li>
+<li>Wide range of services and programs to the needs of their members have contributed by it.</li>
+</ul>
+<p>The IEEE&rsquo;s vision, technological innovation by improving career opportunities for members of the progress of humanity by recognizing and worldwide to increase global well being. The IEEE mission, electro and information technologies and sciences for the creation of engineering, development, implementation and share their knowledge for the benefit of humanity and to strengthen the profession. Installations around the world through membership in the IEEE aerospace systems, computers and telecommunications to bio-medical engineering, electric power, and electronic instruments in many areas is the world&rsquo;s leading authorities.</p>
+<p>IEEE, a member of the technical and professional information, resources and services. IEEE also of interest to engineering students &nbsp;to strengthen the services are also available to members. Another important part of the IEEE The IEEE buy products, conferences and other organizations that participate in the program constitutes the IEEE.</p>
+<p>I To learn more about the IEEE;&nbsp;<a href="http://www.ieee.org/index.html" target="_blank">http://www.ieee.org/index.html</a>&nbsp;site can contact.</p>
+<h1>So Why IEEE?</h2>
+<ul>
+<li>IEEE positive because all the engineering and science and technology will appeal to anyone interested in an organization.</li>
+<li>University will not limit your horizons with your own, because thanks to the IEEE, will move to a level of national and international..</li>
+<li>IEEE Electro-technology and science because of the theory, and progress has ugulamalarini, took part in the technology innovation accelerator is an organization,</li>
+<li>IEEE school and professional life because you will be on your side and will always support an organization.</li>
+<li>Because the IEEE, a member of the technical and professional information, resources, and provide services, with each member a monthly scientific journal Spectrum&rsquo;s ways.</li>
+<li>Because the IEEE, a member offers exceptional size of the article archive..</li>
+<li>Because the IEEE 160 countries 80,000 more students this giant is an organization composed of 370 000 persons.</li>
+</ul><br><br>
+</div>
+</div>
+</div>
+</div>
+<style>
+p{
+text-align:justify
+}
+ol li a{
+/*color:*/
+}
+
+        .main {
+            margin-left: 0px; /* Same as the width of the sidenav */
+            font-size: 20px; /* Increased text to enable scrolling */
+            padding: 0px 0px;
+            justify-content: space-around;
+        }
+        .main ol li{
+            text-align: justify
+        }
+ @media only screen and (max-width: 500px) {
+    p,ol li{
+        text-align: left;
+        font: 18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+}
+</style>
+        <div id="IEEE GCET SB EXECOM" >
+        <div class="container-fluid">
+                <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <div class="main"><br>
+            
+<p><h1 style="text-align:center">IEEE GCET SB EXECOM</h1></p> 
+</tbody>
+</table><br>
+<h1> Student Branch Chair (Mr. K.Sai Vineeth kumar Goud , ECE)</h1>
+<p>The Student Branch Chair is the key to effective student leadership. 
+He/she is responsible for the overall management of all Branch affairs. Some specific duties of the Branch Chair include:</p>
+<ol>
+<li>Preside at all meetings of the Student Branch.</li>
+<li>Hold regular meetings of the Branch Executive Committee.</li>
+<li>Appoint Program, Publicity, and Membership committee Chairs promptly.</li>
+<li>Complete the annual Activity Report - <strong>due no later than 1 November </strong>(<a href="https://sbr.vtools.ieee.org/">https://sbr.vtools.ieee.org/</a>).</li>
+<li>Arrange for the election of new Officers annually and report via vTools Officer Reporting (<a href="https://officers.vtools.ieee.org/">https://officers.vtools.ieee.org/</a>).<ol>
+<li>Ensure smooth transition of information and materials to newly elected Officers and arrange an orderly transfer of Student Branch records.</li>
+<li>Coordinate activities with local Section and Region volunteers.</li>
+<li>Communicate frequently with local University IEEE Student Branches.</li>
+</ol></li>
+</ol>
+<h1><br clear="ALL" /> Student Branch Vice-Chair (Mr. K.Yashwanth Reddy, EEE)</h1>
+<p>The Student Branch Vice-Chair is the junior Executive Officer. He/she should help the Branch Chair with the workload, oversee some of the subcommittees, and manage some of the activities throughout the semester.</p>
+<p>Some of the suggested duties include:</p>
+<ol>
+<li>Chair the Program and Membership Committees.</li>
+<li>Organize field trips or special events beyond regular program efforts.</li>
+<li>Assist the Branch Chair in following up on assigned committee responsibilities.</li>
+<li>Perform all functions of the Branch Chair in his/her absence or upon request.</li>
+</ol>
+<h1><br clear="ALL" /> Student Branch Secretary (Ms. N. Surya Priyanka , ECE)</h1>
+<p>The Student Branch Secretary serves as the record keeper and historian of the Student Branch. He/she is responsible for maintaining all records.</p>
+<p>Some of the specific duties include:</p>
+<ol>
+<li>Keep detailed minutes of each meeting.</li>
+<li>Maintain the membership roster and committee assignments on the Branch website (<a href="http://sites.ieee.org/hosting/">http://sites.ieee.org/hosting/</a>)</li>
+<li>Be responsible for all correspondence.</li>
+<li>Post a calendar of events.</li>
+<li>Ensure that the Branch Constitution and Bylaws are adhered to.</li>
+<li>Arrange for an orderly transfer of all records to the incoming Secretary.</li>
+</ol></li>
+</ol>
+<h1><br clear="ALL" /> Student Branch Treasurer (Mr. Mohamed Khaleel, ECE)</h1>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;The Student Branch Treasurer is responsible for maintaining the financial accounts. It is imperative that all records be kept current 
+and as accurate as possible.</p>
+<p>The specific duties include:</p>
+<ol>
+<li>Maintain the appropriate financial accounts. Your bank account should be interest bearing and require two signatures; the faculty counselor should always be one of those signatures.</li>
+<li>Prepare an annual budget for inclusion in the Annual Activity Report ( due 1 November annually</li>
+</ol>
+<p><a href="https://sbr.vtools.ieee.org/">https://sbr.vtools.ieee.org/</a> ).</p>
+<ol>
+<li>Prepare the final Financial Statement for inclusion in the Annual Activity Report.</li>
+<li>Oversee all fundraising efforts.</li>
+<li>Arrange for an orderly transfer of all financial records to the incoming Treasurer.</li>
+</ol>
+<h1><br clear="ALL" /> Operating Committees</h1>
+<ul>
+<li><strong>Program Committee</strong>: responsible for planning activities for the year.</li><br>
+<li><strong>Publicity Committee</strong>: responsible for advertising activities. <strong><h5 style="color:">( KV. Nikhil )</h5></strong></li>
+<li><strong>Designing Committee: </strong>responsible for advertising activities and logos for the events <h5 style="color:">( V. Pavan Kumar , P.Sreevardhanreddy ,K.Yashwanth Reddy )</h5></li>
+<li><strong>Membership Committee</strong>: responsible for recruiting activities. <strong>(<h5 style="color:">( Manikanta, K.Yashwanth )</h5></strong></li>
+<li><strong>Finance Committee</strong>: responsible for helping the Treasurer plan fundraising activities.<strong><h5 style="color:">( Sirisha chowdary )</h5></strong></li>
+<li><strong>Nominating Committee</strong>: responsible for all elections. This committee must ensure that all candidates are&nbsp;active IEEE Student Members in good standing at 
+the time of their declaration. <strong><h5 style="color:">( Pavani,Prerana )</h5></strong></li>
+</ul>
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h5 style="color:"> ( Aleshia, Eshwar, Indira )</h5></h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+</html>

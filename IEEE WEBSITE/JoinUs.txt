@@ -1,0 +1,42 @@
+ <style>
+      .button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color:darkmagenta;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color:darkmagenta}
+
+.button:active {
+  background-color: darkmagenta;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+mark {
+    background-color: yellow;
+    color: black;
+}
+.main {
+    margin-left: 0px; /* Same as the width of the sidenav */
+    font-size: 20px; /* Increased text to enable scrolling */
+    padding: 0px 0px;
+}
+p{
+    text-align:justify
+}
+
+</style>
+
+<form action="https://goo.gl/dA2bC4" target="_blank">
+<p>Join us to hear about some awesome programs and events (including speakers from industry and academia, company info sessions, faculty dinners, a publication, mentorship events, mixers, social events, community service engineering-style, and more!). We tend to focus on an electrical engineering and computer science audience, but everyone is certainly welcome. This is a hidden list, which means that the list of members is available only to the list administrator.</p>
+<button class="button" style="margin-left:auto;margin-right:auto;display:block;margin-top:9%;margin-bottom:8%">REGISTER</button></form>

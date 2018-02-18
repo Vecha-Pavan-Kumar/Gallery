@@ -1,0 +1,73 @@
+
+<div class="container-fluid">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="main"><br>
+<h1 style="text-align:center">FOR MEMBERSHIP DETAILS PLEASE CONTACT:</h1>
+<h4 style="text-align:left"><strong style="color:black">S.VASUKRISHNA </strong><strong style="color:orange">&nbsp;(&nbsp; BRANCH COUNSELLOR &nbsp;)</strong> : 9392184252</h4>
+<h4 style="text-align:left"><strong style="color:black">K.SAI VINEETH &nbsp;</strong><strong style="color:orange">(&nbsp;STUDENT BRANCH CHAIR PERSON &nbsp;)</strong> : 9010919928</h4>
+
+<h1 style="text-align:center">Join IEEE AND WIE CHAPTER</h2>
+<p align="center"><strong><h2 style="text-align:center">Join the World&rsquo;s Largest Technical Professional Association</h2></strong></p>
+<p style="text-orientation: upright"><br /> The IEEE is the world&rsquo;s largest technical society, bringing members access to the industry&rsquo;s most essential technical information, networking opportunities, career development tools, and many other exclusive benefits.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p ><strong><h2 align="center">Stay Current with the Fast Changing World of Technology</h2></strong></p>
+<p></p>
+<table style="width: 600px;" border="1" cellpadding="0" padding-left="60px" align="center">
+<tbody>
+<tr>
+<td valign="bottom">
+<p align="center">ASK IEEE</a></p>
+</td>
+<td valign="bottom">
+<p align="center">A document delivery service providing papers and articles from thousands of publishers</p>
+</td>
+</tr>
+<tr>
+<td valign="bottom">
+<p align="center">What&rsquo;s New @ IEEE</a></p>
+</td>
+<td valign="bottom">
+<p align="center">10 topics to choose from</p>
+</td>
+</tr>
+<tr>
+<td valign="bottom">
+<p align="center">IEEE Xplore Digital Library</a></p>
+</td>
+<td valign="bottom">
+<p align="center">tables-of-content and abstracts (1.2 million documents)</p>
+</td>
+</tr>
+<tr>
+<td valign="bottom">
+<p align="center">IEEE Potentials Magazine</a></p>
+</td>
+<td valign="bottom">
+<p align="center">6 issues (online)</p>
+</td>
+</tr>
+<tr>
+<td valign="bottom">
+<p align="center">The Institute Newsletter</a></p>
+</td>
+<td valign="bottom">
+<p align="center">12 monthly issues (online)</p>
+</td>
+</tr>
+<tr>
+<td valign="bottom">
+<p align="center">IEEE Spectrum Magazine</a></p>
+</td>
+<td valign="bottom">
+<p align="center">12 monthly issues (print and/or online)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<!-- footer section -->

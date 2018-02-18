@@ -1,0 +1,32 @@
+<div class="container-fluid">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="main"><br>
+<h1 style="text-align:center">IEEE-GCETSB WIE</h1>
+<p>IEEE Women in Engineering (WIE) is one of the largest international professional organizations 
+dedicated to promoting women engineers and scientists, and inspiring girls around the world to follow
+their academic interests in a career in engineering.</p>
+<h2>MISSION &amp; VISION</h2>
+<p> Our goal is to facilitate the recruitment and retention of women in technical disciplines globally
+.&nbsp;We&nbsp;envision a vibrant community of IEEE women and men collectively using their diverse talents 
+to innovate for the benefit of humanity.</p>
+<p><h2>IEEE WIE Strives to&hellip;</h2></p>
+<ul>
+<li style="text-align: left">Recognize the outstanding achievements of women in electrical and electronics engineering through IEEE Awards nominations</li>
+<li style="text-align: left">Organize receptions at major technical conferences to enhance networking and to promote membership in WIE</li>
+<li style="text-align: left">Advocate women in leadership roles in IEEE governance, and career advancement for women in the profession</li>
+<li style="text-align: left">Provide assistance with the formation of new WIE Affinity Groups, and support ongoing activities</li>
+<li style="text-align: left">Promote IEEE member grade advancement for women to the membership grades of Senior member and Fellow</li>
+<li style="text-align: left">Facilitate the development of programs and activities that promote the entry into, and retention of, women in engineering programs</li>
+<li style="text-align: left">Administer the IEEE Student-Teacher and Research Engineer/Scientist (STAR) Program to mentor young women in junior and high school</li>
+</ul>
+<p>WeIcome to the IEEE GCET- Student Branch where members instigate a worldwide community through IEEE's extremely cited publications and conferences.</p>
+<p>The IEEE &ndash; GCET student branch &nbsp;was inaugurated in 2010 with a membership no of 100 students, 10 faculty advisors and a branch Counsellor
+ and The branch has been assigned a Branch code STB- 05841 and COLLEGE code -60050138 WIE AG Geo-code:SB05841 The student Branch emphasis on conducting 
+more activites and technical events which can develop the skills of a student in both technical and managerial.</p>
+<p>We believe that in the ever evolving world of today, networking is the key for knowledge advancement. So, with the international fraternity provided 
+to us by the IEEE this is the perfect way to milk information from the experts themselves and be a part of something that is bigger than ourselves.</p>
+</div>
+</div>
+</div>
+</div>
