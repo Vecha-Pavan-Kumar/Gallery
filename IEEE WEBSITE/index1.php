@@ -115,7 +115,9 @@
                           <li>
                             <a href="./about.php#IEEE GCET SB EXECOM">IEEE EXECOM</a>
                           </li>
-            
+                          <li>
+                            <a href="./DESIGN EXECOM.html">DESIGN EXECOM</a>
+                          </li>
                         </ul>
                       </li> 
             
